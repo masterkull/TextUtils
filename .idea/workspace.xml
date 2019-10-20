@@ -19,6 +19,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1QGnRxaaxeKDSl0y8tvqUzwxcr2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -79,6 +80,7 @@
       <workItem from="1568359844124" duration="354000" />
       <workItem from="1569068960453" duration="598000" />
       <workItem from="1570255382047" duration="8000" />
+      <workItem from="1571163933659" duration="4000" />
     </task>
     <servers />
   </component>
